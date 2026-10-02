@@ -63,6 +63,8 @@ The analysis explored:
 
 Microsoft Excel
 
+#Project dashboard: https://github.com/kunletheanalyst1/Freelances-data-cleaning-and-visualization/blob/main/Screenshot%202026-10-02%20121935.png
+
 # Project Purpose
 
 The goal of this project was to transform a raw freelance dataset into a clean and structured dataset that could be used to generate meaningful insights and support data-driven decision-making.
