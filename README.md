@@ -63,7 +63,7 @@ The analysis explored:
 
 Microsoft Excel
 
-#Project dashboard: https://github.com/kunletheanalyst1/Freelances-data-cleaning-and-visualization/blob/main/Screenshot%202026-10-02%20121935.png
+#Project dashboard Sreenshoot: https://github.com/kunletheanalyst1/Freelances-data-cleaning-and-visualization/blob/main/Screenshot%202026-10-02%20121935.png
 
 # Project Purpose
 
